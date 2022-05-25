@@ -1,0 +1,23 @@
+.background {
+  background-image: url(https://wallpaperaccess.com/full/1777193.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 100vh;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bottomdiv {
+  background-color: black;
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+}
+h1 {
+  color: red;
+  text-align: center;
+  position: relative;
+}
